@@ -53,8 +53,8 @@
         android:layout_alignLeft="@+id/radioGroup1" />
 
     <TextView
-        android:id="@+id/team_a_label"
-        style="@style/TeamLabelStyle"
+        android:id="@+id/footer"
+        style="@style/FooterText"
         android:text="Temperature Converter"
         android:textColor="#ff4444" />
 
