@@ -1,4 +1,5 @@
 # TemperatureConverter
-Sanjar Hamidi
-CYBR 8480
-Native App Lab
+
+* Sanjar Hamidi
+* CYBR8480
+* Native App Lab
